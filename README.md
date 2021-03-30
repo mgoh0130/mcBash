@@ -1,5 +1,4 @@
 # mcBash
-PLEASE EMAIL ME AT michelle.goh@yale.edu IF YOU WOULD LIKE TO SEE MY CODE FOR THIS
 
 /bin/bash (the Bourne Again SHell) performs variable expansion on
 the command line.  For example, if the value of the environment variable HWK is
